@@ -56,3 +56,15 @@ Main fields analyzed include taxi company activity, destination neighborhoods, t
 - Translated technical findings into operational insights for transportation planning and decision support.
 
 **Technological skills used:** SQL, Python, Pandas, Hypothesis Testing, EDA, Jupyter Notebook, Git/GitHub
+
+## Resume Bullet Version - ES
+**Chicago Taxi Trip Analysis** | **TripleTen Data Analyst Bootcamp (2025)**
+
+- Analice datasets de viajes de taxi en Chicago para evaluar actividad por compania, concentracion por destino y comportamiento de la duracion de viaje.
+- Realice analisis exploratorio y pruebas de hipotesis para evaluar si los sabados lluviosos impactan la duracion de los viajes de Loop a O'Hare.
+- Traduci los hallazgos tecnicos en insights operativos para planeacion de transporte y soporte a la toma de decisiones.
+
+**Habilidades tecnologicas utilizadas:** SQL, Python, Pandas, Pruebas de Hipotesis, EDA, Jupyter Notebook, Git/GitHub
+
+## Author
+Project developed as part of the TripleTen Data Analyst Bootcamp (2025).
