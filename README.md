@@ -28,20 +28,6 @@ Main fields analyzed include taxi company activity, destination neighborhoods, t
 - Destination demand is concentrated in a subset of neighborhoods, including key transport hubs.
 - Hypothesis testing supports that rainy Saturday conditions are associated with longer Loop-to-O'Hare trip duration.
 
-## Tools
-- SQL
-- Python
-- Pandas
-- SciPy (statistical testing)
-- Jupyter Notebook
-
-## Repository Structure
-- `notebook (16).ipynb`: full analysis workflow, visualizations, and hypothesis testing
-- `moved_project_sql_result_01 (1).csv`: query result dataset
-- `moved_project_sql_result_04 (1).csv`: query result dataset
-- `moved_project_sql_result_07 (1).csv`: query result dataset
-- `README.md`: project documentation
-
 ## How to Use
 1. Clone the repository.
 2. Open `notebook (16).ipynb` in Jupyter Notebook or VS Code.
@@ -65,6 +51,20 @@ Main fields analyzed include taxi company activity, destination neighborhoods, t
 - Traduci los hallazgos tecnicos en insights operativos para planeacion de transporte y soporte a la toma de decisiones.
 
 **Habilidades tecnologicas utilizadas:** SQL, Python, Pandas, Pruebas de Hipotesis, EDA, Jupyter Notebook, Git/GitHub
+
+## Tools
+- SQL
+- Python
+- Pandas
+- SciPy (statistical testing)
+- Jupyter Notebook
+
+## Repository Structure
+- `notebook (16).ipynb`: full analysis workflow, visualizations, and hypothesis testing
+- `moved_project_sql_result_01 (1).csv`: query result dataset
+- `moved_project_sql_result_04 (1).csv`: query result dataset
+- `moved_project_sql_result_07 (1).csv`: query result dataset
+- `README.md`: project documentation
 
 ## Author
 Project developed as part of the TripleTen Data Analyst Bootcamp (2025).
